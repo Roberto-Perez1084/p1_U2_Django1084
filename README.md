@@ -15,4 +15,4 @@ Configuraciones basicas para trabajar con el framework de Django
 - Creando proyecto --> django-admin startproject webmusicportal_proy .
 - Realizar migracion al proyecto --> python manage.py migrate
 - Ejecutar servidor web --> python manage.py runserver
-- Me trabajo el proyecto
+- Me trabajo el proyecto --> http://127.0.0.1:8000/
