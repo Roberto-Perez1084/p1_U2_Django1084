@@ -1,0 +1,14 @@
+- Crear aplicacion perezclase_app
+- comando --> python manage.py startapp perezclase_app
+- Creamos el archivo urls.py en navaclase_app
+- ![alt text](image.png)
+- En setting.py de p2clase1084
+- ![alt text](image-1.png)
+- En urls.py de p2clase1084
+![alt text](image-2.png)
+- En urls.py en perezclase_app
+- ![alt text](image-4.png)
+- En views.py en perezclase_app
+- ![alt text](image-5.png)
+- En urls.py en perezclase_app
+- ![alt text](image-6.png)
